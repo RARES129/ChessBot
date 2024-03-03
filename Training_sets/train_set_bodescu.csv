@@ -1,0 +1,66 @@
+question,answer 
+How many players can play in a game of chess?,Chess is a two-player abstract strategy board game.
+How many pieces does each player have?, Each player begins with 16 pieces: one king, one queen, two rooks, two knights, two bishops, and eight pawns.	
+How many squares are on a chess board?, There are 64 squares on a chess board.
+What is the purpose of a chess game?, The object of the game is to checkmate the opponents king, whereby the king is under immediate attack and there is no way to remove it from attack on the next move.
+What is the most powerful piece in chess?, The queen is the most powerful piece in the game of chess, able to move any number of squares vertically, horizontally or diagonally.
+What is the least powerful piece in chess?, The pawn is the least powerful piece in the game of chess, able to move only forward one square at a time (except for its first move, when it can advance by one or two squares).
+How rows and columns are called in a chess board?, The rows of a chessboard are called ranks, and the columns are called files.
+How the chess board is placed?, The chessboard is placed with a light square at the right-hand end of the rank nearest to each player.
+How the chess board is colored?, The chessboard is composed of an 8x8 grid of 64 equal squares alternately light (the white squares) and dark (the black squares).
+How many squares are there in each color?, There are 32 light squares and 32 dark squares.
+How manny kings are there in a chess board?, There is one king per player.
+How many queens are there in a chess board?, There is one queen per player.	
+How many rooks are there in a chess board?, There are two rooks per player.
+How many bishops are there in a chess board?, There are two bishops per player.
+How many knights are there in a chess board?, There are two knights per player.
+How many pawns are there in a chess board?, There are eight pawns per player. 
+Where are rooks initially placed on the chessboard?, The rooks are placed on the outside corners, right and left edge.
+Where are knights initially placed on the chessboard?, The knights are placed immediately inside of the rooks.
+Where are bishops initially placed on the chessboard?, The bishops are placed immediately inside of the knights.
+Where are queens initially placed on the chessboard?, The queen is placed on the central square of the same color of that of the player: white queen on the white square and black queen on the black square.
+Where are kings initially placed on the chessboard?, The king takes the vacant spot next to the queen.
+Where are pawns initially placed on the chessboard?, The pawns are placed one square in front of all of the other pieces.
+How many squares can a knight move?, The knight moves to any of the closest squares that are not on the same rank, file, or diagonal, thus the move forms an L-shape: two squares vertically and one square horizontally, or two squares horizontally and one square vertically.
+Who moves first in a chess game?, White moves first, and then players alternate moves.
+Can I skip my turn in a chess game?, No, you cannot skip your turn.
+What is king side?, The king side is the side of the board where the king is initially placed.
+What is queen side?, The queen side is the side of the board where the queen is initially placed.
+How many moves can a player make in a chess game?, Each player must make one move per turn.
+When does a chess game end?, A chess game ends when a player declares a checkmate on the opponent, when a draw is declared by the arbiter or when a player resigns.
+What is a checkmate?, A checkmate is a situation in chess in which a players king is in check (threatened with capture) and there is no way to remove the threat. Checkmating the opponent wins the game.
+Does each type of piece have a different movement?, Yes, each type of piece has a different movement.
+How does a pawn move?, A pawn can move forward to the unoccupied square immediately in front of it on the same file, or on its first move it can advance two squares along the same file, provided both squares are unoccupied (black dots in the diagram); or the pawn can capture an opponents piece on a square diagonally in front of it on an adjacent file, by moving to that square (black xs).
+How does a rook move?, A rook can move any number of squares along a rank or file, but cannot leap over other pieces.
+How does a knight move?, A knight moves to any of the closest squares that are not on the same rank, file, or diagonal, thus the move forms an L-shape: two squares vertically and one square horizontally, or two squares horizontally and one square vertically.
+How does a bishop move?, A bishop can move any number of squares diagonally, but cannot leap over other pieces.
+How does a queen move?, A queen combines the power of a rook and bishop and can move any number of squares along a rank, file, or diagonal, but cannot leap over other pieces.
+How does a king move?, A king can move one square in any direction (horizontally, vertically, or diagonally) unless the square is already occupied by a friendly piece or the move would place the king in check.
+When a piece is captured, where does it go?, When a piece is captured, the attacking piece replaces the opponents piece on its square (en passant being the only exception).
+What is castling movement?, Castling is a move in the game of chess involving a players king and either of the players original rooks.
+How does castling work?, Castling consists of moving the king two squares towards a rook on the players first rank, then moving the rook to the square over which the king crossed.
+How many castling moves can be made per chess game?, Castling is permissible if and only if all of the following conditions hold: The king and rook involved in castling must not have previously moved; There must be no pieces between the king and the rook; The king may not currently be in check, nor may the king pass through or end up in a square that is under attack by an enemy piece (though the rook is permitted to be under attack and to pass over an attacked square).
+What is en passant movement and how it works?, En passant is a move in chess. It is a special pawn capture that can only occur immediately after a pawn makes a move of two squares from its starting square, and it could have been captured by an enemy pawn had it advanced only one square.
+What is promotion movement and how it works?, When a pawn advances to the eighth rank, as a part of the move it is promoted and must be exchanged for the players choice of queen, rook, bishop, or knight of the same color.
+What is a check?, A check is a condition in chess that occurs when a players king is under threat of capture on their opponents next turn.
+What are the possible ways to get out of check?, There are three possible ways to get out of check: move the king to a square where it is not threatened; capture the threatening piece (possibly with the king); block the check by placing a piece between the king and the opponents threatening piece.
+What happens when a player is in check and has no legal move to get out of check?, When a player is in check and has no legal move to get out of check, the king is checkmated and the game is over.
+What is a stalemate?, Stalemate is a situation in the game of chess where the player whose turn it is to move is not in check but has no legal move.
+What happens when a player is in stalemate?, When a player is stalemated, the game ends as a draw.
+What is a draw?, A draw is the result of a game ending in a tie.
+What are the possible ways to end a chess game in a draw?, There are five possible ways to end a chess game in a draw: The game is a draw when the player to move is not in check and has no legal move; The game is a draw when the same position is repeated three times; The game is a draw if no piece has been captured and no pawn has been moved in the last fifty moves; The game is a draw when a player declares a draw; The game is a draw when an arbiter declares a draw.
+What is a checkmate?, A checkmate is a situation in chess in which a players king is in check (threatened with capture) and there is no way to remove the threat. Checkmating the opponent wins the game.
+What is resigning?, Resigning is the act of a player declaring that he or she has lost the game.
+What is a dead position?, A dead position is a position where neither player can checkmate the other player.
+How many types of dead positions are there?, There are two types of dead positions: mutual stalemate and insufficient material.
+What is mutual stalemate?, Mutual stalemate is a situation in which both players are stalemated.
+What is insufficient material?, Insufficient material is a position where neither player has sufficient material to checkmate the opponent.
+What is a flag fall?, A flag fall is a situation in which a player runs out of time.
+What happens when a player runs out of time?, When a player runs out of time, the game is over and the player who ran out of time loses the game.
+There are illegal moves in chess?, Yes, there are illegal moves in chess.
+What happens when a player makes an illegal move?, When a player makes an illegal move, the opponent is awarded an extra two minutes.
+What happens when a player makes an illegal move and has no time left?, When a player makes an illegal move and has no time left, the opponent wins the game.
+What is a draw offer?, A draw offer is a proposal by a player to his opponent to end the game with a draw.
+What is a ambiguous move?, An ambiguous move is a move that can be interpreted in two or more different ways.
+What is a blunder?, A blunder is a very bad move.
+What is a blunder check?, A blunder check is a check that is made to make sure that the player is not making a blunder.

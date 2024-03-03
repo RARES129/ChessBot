@@ -1,0 +1,34 @@
+question, answer
+What chess set is used in competitions?, The Staunton pattern is most common and it's usually required in competitions.
+What pieces does a set consist of?, A chess set consists of sixteen pieces: one king; one queen; two rooks; two bishops; two knights; and eight pawns.
+What is the objective of the game?, The objective is to checkmate the opponent.
+What is a checkmate?, A checkmate is when the opponent's king is in check and there is no legal way to get it out of check. 
+Who moves first?, White moves first.
+Is moving compulsory?, Moving is mandatory. A player must always make a move.
+How does a king move?, A king can move in any of the 8 squares surrounding him.
+How does the queen move?, A queen can move in any direction diagonally and in line.
+How does the bishop move?, The bishop can move in any direction diagonally.
+How does the rook move?, The rook can move in any direction in line
+How does the knight move?, The knight can move in the direction of an L: (two squares vertically and one square horizontally or two squares horizontally and one square vertically.) The knight is the only piece that can leap over other pieces.
+How does the pawn move?, A pawn can move forward to the unoccupied square immediately in front of it on the same file or on its first move it can advance two squares along the same file provided both squares are unoccupied.
+What does check mean?, Check is when a king is under attack. The only legal move a king can make is one that gets him out of danger.
+How can you defend against a check?, To escape a check the king has to move out of danger or the attacking piece must be captured or a piece must be interposed between the attacking piece and the king.
+What is castling?, Castling consists of moving the king two squares toward a rook of the same color on the same rank and then placing the rook on the square that the king crossed. Castling can be done once per match by each player.
+When is castling permissible?, Castling can be done when netiher the king or the rook have been previously moved; when there are no pieces between the rook and the king; when the king is not in check and does not pass through or finish in a square that is under attack.
+What is en passant?, When a pawn makes a two-step advance from its starting position and there is an opponent's pawn on a square next to the destination square on an adjacent file then the opponent's pawn can capture it en passant ("in passing") moving to the square the pawn passed over
+When is en passant possible?,  This can be done only on the turn immediately following the enemy pawn's two-square advance; otherwise the right to do so is forfeited
+What is promotion?, A pawn can be "promoted" when it reaches the 8th rank (the enemy first row). Promotion means that we can exchange the pawn for a queen; bishop; rook or knight of the same color.
+What pieces can be promoted?, Only the pawn can be promoted. All 8 pawns can be promoted if they reach the 8th row.
+How can you win?, You can win if you checkmate your opponent. You can win if the opponent resigns. You can win on time. You can win if the opponent forfeits.
+How can I win on time?, In competitions a clock is used when playing. Your time runs when it's your turn until you make the move. If a player runs out of time he losses.
+How can I win by forfeit?, A player who cheats; violates the rules; or violates the rules of conduct specified for the particular tournament can be forfeited.
+Can a game end in draw?, Yes. A game can end in a draw.
+How can a game end in a draw?, There are several ways a game can end in a draw: stalemate; dead position; draw by agreement; threefold repetition; fifty-move rule; draw on time; draw on resignation.
+What is a stalemate?, If the player to move has no legal move but is not in check the position is a stalemate and the game is drawn.
+What is a dead position?, If neither player is able to checkmate the other by any legal sequence of moves the game is drawn. For example if only the kings are on the board all other pieces having been captured checkmate is impossible and the game is drawn by this rule.
+What is a draw by agreement?, In tournament chess draws are most commonly reached by mutual agreement between the players. The correct procedure is to verbally offer the draw; make a move; then start the opponent's clock.
+What is threefold repetition?, This most commonly occurs when neither side is able to avoid repeating moves without incurring a disadvantage. In this situation either player can claim a draw; this requires the players to keep a valid written record of the game so that the claim can be verified by the arbiter if challenged.
+What is the fifty-move rule?,  If during the previous 50 moves no pawn has been moved and no capture has been made either player can claim a draw. There is also seventy-five-move rule that works in the same manner.
+What is a draw on time?,  In games with a time control the game is drawn if a player is out of time and no sequence of legal moves would allow the opponent to checkmate the player.
+What is a draw by resignation?, Under FIDE Laws a game is drawn if a player resigns and no sequence of legal moves would allow the opponent to checkmate that player.
+What is FIDE?, FIDE is the International Chess Federation; the governing body for chess tournaments.

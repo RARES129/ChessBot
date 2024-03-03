@@ -1,0 +1,68 @@
+question, answer
+On what is chess played?,Chess is played on a chessboard, a square board divided into a grid of 64 squares (eight-by-eight) of alternating color
+How big is a chess board?,A chess board contains 64 squares (eight-by-eight)
+How is the board placed?,The board is placed so that a white square is in each players near-right corner
+How is the chessboard placed?,The board is placed so that a white square is in each players near-right corner
+How are rows called?,Rows are called ranks
+How are collumns called?,Collumns are called files
+How many pieces does a player has?,Each player controls sixteen pieces
+How many pieces are in total?,A game of chess is played with 32 pieces, each player having 16
+What are the colors of the pieces?,The pieces are either white or black
+Does a player have sixteen pieces?,Yes, the player has 16 pieces either white or black
+What are the pieces?,The pieces are: King, Queen, Rook, Bishop, Knight and Pawn
+How many kings are there?,Each player has one king
+How many queens are there?,Each player has one queen
+How many rooks are there?,Each player has two rook
+How many bishops are there?,Each player has two bishops
+How many knights are there?,Each player has two knights
+How many pawns are there?,Each player has eight pawns
+Where are the rooks placed?,Rooks are placed on the outside corners, right and left edge.
+Where are the knights placed?,Knights are placed immediately inside of the rooks.
+Where are the bishops placed?,Bishops are placed immediately inside of the knights
+Where is the queen placed?,The queen is placed on the central square of the same color of that of the piece: white queen on the white square and black queen on the black square
+Where is the king placed?,The king takes the vacant spot next to the queen
+Where are the pawns placed?,Pawns are placed one square in front of all of the other pieces
+Which player moves first?,White moves first, then players alternate moves
+Does white moves first?,Yes, white makes the first move
+Does black moves first?,No, white always moves first
+Is it allowed to skip a move?,No, the player cant skip a move even when having to move is detrimental
+When does a game end?,The game ends when the king is checkmated, a player resigns or a draw is declared. If the game is played under a time control, the player who exceeds the time limit loses unless they cant be checkmated
+How do you decide which player takes the white pieces?,The official chess rules do not include a procedure for determining who plays White. Instead, this decision is left open to tournament-specific rules or, in the case of non-competitive play, mutual agreement, in which case some kind of random choice is often employed
+How do the pieces move?,A piece moves to a vacant square except when capturing an opponents piece
+Can pices jump other pieces?,Except for any move of the knight and castling, pieces cannot jump over other pieces
+How is a pice captured?,A piece is captured(or taken) when an attacking enemy piece replaces it on its square. The captured piece is thereby permanently removed from the game
+Can the king be captured?,The king can be put in check but cannot be captured
+What pieces can be captured?,All the pieces besides the king can be captured
+How does the king moves?,The king moves exactly one square horizontally, vertically, or diagonally
+How does the rook moves?,A rook moves any number of vacant squares horizontally or vertically
+How does the bishop moves?,A bishop moves any number of vacant squares diagonally. (Thus a bishop can move to only light or dark squares, not both.)
+How does the queen moves?,The queen moves any number of vacant squares horizontally, vertically, or diagonally
+How does the knight moves?,A knight moves to one of the nearest squares not on the same rank, file,or diagonal
+How does the pawn moves?,Pawns have the most complex rules of movement. A pawn moves straight forward one square, if that square is vacant. If it has not yet moved, a pawn also has the option of moving two squares straight forward, provided both squares are vacant. Pawns cannot move backwards. A pawn, unlike other pieces, captures differently from how it moves. A pawn can capture an enemy piece on either of the two squares diagonally in front of the pawn. It cannot move to those squares when vacant except when capturing en passant.
+What is castling?,Castling consists of moving the king two squares towards a rook, then placing the rook on the other side of the king, adjacent to it. It is not allowed to move both king and rook in the same time, because Each move must be played with one hand only.
+When is castling permitted?,Castling is only permissible if all of the following conditions hold: the king and rook involved in castling must not have previously moved, there must be no pieces between the king and the rook, the king may not currently be under attack, nor may the king pass through or end up in a square that is under attack by an enemy piece ot the castling must be kingside or queenside
+What is kingside?,The side of the board (half-board) the kings are on at the start of the game
+What is queenside?,The side of the board (board-half) the queens are on at the start of the game
+What is en passant?,When a pawn advances two squares on its initial move and ends the turn adjacent to an enemy pawn on the same rank, it may be captured en passant by the enemy pawn as if it had moved only one square. This capture is legal only on the move immediately following the pawns advance
+What is promotion?,If a player advances a pawn to its eighth rank, the pawn is then promoted (converted) to a queen, rook, bishop, or knight of the same color at the choice of the player (a queen is usually chosen). The choice is not limited to previously captured pieces. Hence it is theoretically possible for a player to have up to nine queens or up to ten rooks, bishops, or knights if all of their pawns are promoted,
+What is check?,A king is in check when it is under attack by at least one enemy piece. A piece unable to move because it would place its own king in check may still deliver check to the opposing player. It is illegal to make a move that places or leaves ones king in check
+How can you get out of check?,The possible ways to get out of check are: move the king to a square where it is not in check, capture the checking piece or block the check by placing a piece between the king and the opponents threatening piece
+What happens if the player cant get out of check?,If it is not possible to get out of check, the king is checkmated and the game is over
+What is checkmate?,If a players king is placed in check and there is no legal move that player can make to escape check, then the king is said to be checkmated, the game ends, and that player loses. Unlike the other pieces, the king is never captured
+What is resigning?,Either player may resign at any time. A player may resign by saying it verbally or by indicating it on the score sheet in any of three ways: by writing resigns, by circling the result of the game, or by writing 1-0 if Black resigns or 0-1 if White resigns.
+How can a game end in a draw?,The game ends in a draw if any of these conditions occur: the player to move is not in check and has no legal move. This situation is called a stalemate, the game reaches a dead position or both players agree to a draw after one of the players makes such an offer. The player having the move claims a draw by correctly declaring that one of the following conditions exists, or by correctly declaring an intention to make a move which will bring about one of these conditions: The same board position has occurred three times with the same player to move and all pieces having the same rights to move, including the right to castle or capture en passant or there has been no capture or pawn move in the last fifty moves by each player, if the last move was not a checkmate. The arbiter intervenes to declare a draw, without a draw request necessary: when the same board position has occurred five times or when the moves without capture or pawn move extend up to seventy-five. A player would normally lose by running out of time or by resigning, but their opponent has no way to checkmate them via any series of legal moves,
+What is a dead position?,A dead position is defined as a position where neither player can checkmate their opponents king by any sequence of legal moves
+What are the types of dead position?,There are two kinds of dead position: positions with only the following pieces (king against king, king against king and bishop, king against king and knight, king and bishop against king and bishop, with both bishops on squares of the same color) or other positions in which checkmate is impossible by any sequence of legal moves
+What is flag fall?,A game played under time control will end as a loss for a player who uses up all of the time allotted on the players clock, which is called flag-fall, unless the opponent has no possibility of effecting checkmate
+What is algebric notation?,Algebraic notation is the standard method for recording and describing the moves in a game of chess. It is based on a system of coordinates to uniquely identify each square on the board.
+How do you identify a cell in albebric notation?,Each square of the board is identified by a unique coordinate pair a letter and a number from Whites point of view. The vertical columns of squares, called files, are labeled a through h from Whites left (the queenside) to right (the kingside). The horizontal rows of squares, called ranks, are numbered 1 to 8 starting from Whites side of the board.
+How do you identify pieces in albebric notation?,Each piece type(other than pawns) is identified by an uppercase letter. English-speaking players use the letters K for king, Q for queen, R for rook, B for bishop, and Nb for knight. Different initial letters are used by other languages.
+How do you identify moves in albebric notation?,In standard (or short form) algebraic notation, each move of a piece is indicated by the pieces uppercase letter, plus the coordinates of the destination square. For example, Be5 (bishop moves to e5), Nf3(knight moves to f3). For pawn moves, a letter indicating pawn is not used, only the destination square is given. For example, c5(pawn moves to c5).
+How do you mark captures in albebric notation?,When a piece makes a capture, an x is inserted immediately before the destination square. For example, Bxe5(bishop captures the piece on e5). When a pawn makes a capture, the file from which the pawn departed is used to identify the pawn. For example, exd5(pawn on the e-file captures the piece on d5).
+How do you mark en passant in algebric notation?,En passant captures are indicated by specifying the capturing pawns file of departure, the x, the destination squareand (optionally) the suffix e.p. indicating the capture was en passant. For example, exd6 e.p.
+What happens if a move is ambigous?,When two (or more) identical pieces can move to the same square, the moving piece is uniquely identified by specifying the pieces letter, followed by (in descending order of preference): the file of departure (if they differ) or the rank of departure (if the files are the same but the ranks differ).
+How do you mark pawn promotion?,When a pawn promotes, the piece promoted to is indicated at the end. For example, a pawn on e7 promoting to a queen on e8 may be variously rendered as e8Q, e8=Q, e8(Q), e8/Q etc.
+How do you mark castling?,Castling is indicated by the special notations 0-0 (for kingside castling) and 0-0-0 (queenside castling).
+How do you mark check?,A move that places the opponents king in check usually has the symbol + appended.
+How do you mark checkmate?,Checkmate at the completion of moves is represented by the symbol #.
+How do you mark end of game?,The notation 1-0 at the completion of moves indicates that White won, 0-1 indicates that Black won, and 1/2-1/2 indicates a draw. In case of forfeit, the scores 0-0, 1/2-0, and 0-1/2 are also possible.
